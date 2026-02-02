@@ -1,6 +1,6 @@
 {
-  "name": "Smart Travel Companion – Warsaw",
-  "short_name": "Travel Warsaw",
+  "name": "Smart Travel Companion",
+  "short_name": "Travel Companion",
   "description": "Offline city guide and travel journal for Warsaw",
   "start_url": "/smart-travel-companion/",
   "scope": "/smart-travel-companion/",
